@@ -12,14 +12,14 @@
 // VCC = 3.3V
 //--------------------
 
-
 void setup()
 { 
   Serial.begin(115200);
   pinMode(DOUT, INPUT);
 }
 
-void loop(){
+void loop()
+{
   
   
   if(digitalRead(DOUT) == LOW)

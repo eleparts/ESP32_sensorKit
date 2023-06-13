@@ -17,7 +17,6 @@
 #define ADC_RESOLUTION_BIT    12
 #define ADC_RESOLUTION_VALUE  4096 
 
-
 int ad_value;
 int resolution_value = ADC_RESOLUTION_VALUE - 1;
 
@@ -29,7 +28,8 @@ void setup()
   pinMode(AOUT, INPUT);
 }
 
-void loop(){
+void loop()
+{
   
   ad_value = analogRead(AOUT);
   

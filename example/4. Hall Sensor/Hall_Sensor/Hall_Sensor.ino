@@ -28,7 +28,8 @@ void setup()
   pinMode(AOUT, INPUT);
 }
 
-void loop(){
+void loop()
+{
   
   ad_value = analogRead(AOUT);
   

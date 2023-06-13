@@ -1,7 +1,7 @@
 /* 
 * Waveshare사의 Sensors Pack 구성품인 Moisture(Liquid Level) Sensor의 ESP32 사용 예제입니다.
 * 제품 페이지 : https://www.eleparts.co.kr/EPXDPVYB
-* 수분을 감지하여 전압이 변화합니다. 토양 수분량을 감지하거나 물에 담궈 수위 변화를 측정할 수 있습니다.
+* 수분을 감지하여 전압이 변화합니다. 토양 수분량을 감지할 수 있습니다.
 * 
 * Moisture Sensor를 아래와 같이 연결하거나 -PIN- 부분의 값을 연결 상태에 맞게 변경해 주시면 됩니다. 
 */
@@ -25,7 +25,8 @@ void setup()
   pinMode(AOUT, INPUT);
 }
 
-void loop(){
+void loop()
+{
   
   ad_value = analogRead(AOUT);
   
