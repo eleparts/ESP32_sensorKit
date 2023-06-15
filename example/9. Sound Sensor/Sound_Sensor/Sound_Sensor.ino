@@ -1,9 +1,9 @@
 /* 
-* Waveshare사의 Sensors Pack 구성품인 Sound Sensor의 ESP32 사용 예제입니다.
+* Waveshare사의 Sensors Pack 구성품인 Tilt Sensor의 ESP32 사용 예제입니다.
 * 제품 페이지 : https://www.eleparts.co.kr/EPXDPVYB
-* 소리를 감지할 수 있습니다.
+* 기울어지거나 흔들림 동작을 감지합니다.
 * 
-* Sound Sensor를 아래와 같이 연결하거나 -PIN- 부분의 값을 연결 상태에 맞게 수정해 줍니다. 
+* Tilt Sensor를 아래와 같이 연결하거나 -PIN- 부분의 값을 연결 상태에 맞게 수정해 줍니다. 
 */
 //-------PIN---------
 #define DOUT   26
