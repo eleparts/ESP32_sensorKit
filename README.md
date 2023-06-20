@@ -6,7 +6,7 @@
 
 ## 본품 구성 키트  
   
-[제작중입니다](https://www.eleparts.co.kr/EPXDPVYB)  
+[BOM 구성](https://www.eleparts.co.kr/bom/share?pj_seq=UP3ORZ196&hseq=BB8R8PD3)  
   
 ## 권장 ESP32 개발 보드 및 부속  
   
@@ -14,7 +14,7 @@
 
 [ESP32-DevKitC V4 호환보드(Ver. WROOM-32D)](https://www.eleparts.co.kr/goods/view?no=12671127)  
 
-[전원 & 프로그램 업로드용 USB 케이블]
+[전원 & 프로그램 업로드용 USB 케이블](https://www.eleparts.co.kr/goods/catalog?&code=005100060013&node_id=343027&overseas=Y&sort=&_=1687221600766)
 
 개발 보드의 핀에 점퍼를 직접 꽂아 사용하여도 가능하나, 아래 추가 구성을 이용해 브레드보드에 고정해 사용 가능합니다.  
 
@@ -24,7 +24,7 @@
 -> **2개**를 연결하면 중앙에 ESP32 보드를 꽂아 줄 수 있습니다.(DevKitC V4 규격 기준 중앙 전원라인 2줄 필요)  
 
 [2.54mm 1*40P 도금 15mm 변환 핀헤더](https://www.eleparts.co.kr/goods/view?no=12534571)  
--> 니퍼등을 이용해 반으로 부러트린 뒤 브레드보드에 꽂으면 Female 점퍼를 꽂아 사용할 수 있습니다.  
+-> 니퍼등을 이용해 반으로 자른 뒤 브레드보드에 꽂으면 Female 점퍼를 꽂아 사용할 수 있습니다.  
 (또는 점퍼 케이블(Female 타입)에 꽂아 male 로 변환 가능)  
   
 ## 센서 목록  
