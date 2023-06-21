@@ -26,6 +26,8 @@
 [2.54mm 1*40P 도금 15mm 변환 핀헤더](https://www.eleparts.co.kr/goods/view?no=12534571)  
 -> 니퍼등을 이용해 반으로 자른 뒤 브레드보드에 꽂으면 Female 점퍼를 꽂아 사용할 수 있습니다.  
 (또는 점퍼 케이블(Female 타입)에 꽂아 male 로 변환 가능)  
+
+![브레드보드 2EA 사용 샘플 이미지](https://raw.githubusercontent.com/eleparts/ESP32_sensorKit/main/image/sample_01.jpg)
   
 ## 센서 목록  
 
@@ -47,3 +49,6 @@
 |12         |UV Sensor                      | 자외선 센서 - 자외선 감지             |
 |13         |Liquid Level Sensor	        | 액체 레벨 센서 - 수위 감지            |
   
+## ESP32-DevKitC V4 핀 맵
+
+![ESP32-DevKitC V4 Pin map](https://raw.githubusercontent.com/eleparts/ESP32_sensorKit/main/image/esp32-devkitC-v4-pinout.png)
